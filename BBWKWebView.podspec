@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'BBWKWebView'
-s.version      = '1.0.2'
+s.version      = '1.0.3'
 s.summary      = '网页封装'
 s.homepage     = 'https://github.com/CodingHero520/BBWKWebView.git'
 s.license      = 'MIT'
